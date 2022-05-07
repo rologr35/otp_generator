@@ -226,7 +226,7 @@ class _AuthenticatorPageState
                                     fontWeight: FontWeight.w600,
                                     color: warning
                                         ? Colors.red
-                                        : R.color.blackColor),
+                                        : R.color.grayDarkestColor),
                               ),
                               Expanded(
                                 child: Container(),
@@ -246,7 +246,7 @@ class _AuthenticatorPageState
                                                 Colors.transparent,
                                                 warning
                                                     ? Colors.red
-                                                    : R.color.blackColor
+                                                    : R.color.primaryColor
                                               ],
                                               transform: const GradientRotation(
                                                   -math.pi / 2))
