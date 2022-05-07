@@ -1,0 +1,23 @@
+{
+  "@@locale": "es",
+  "appName": "OTPGenerator",
+  "invalidBase32Chars": "Caracteres base32 no válidos",
+  "labelTextWarning": "La etiqueta está vacía, por favor chequee este valor",
+  "secretCode": "Clave",
+  "label": "Etiqueta",
+  "otpLabelWarning": "La etiqueta otp es una cadena alfanumérica sin espacios que también admite :@.,;()\\$%",
+  "qrScanner": "QR",
+  "accept": "Aceptar",
+  "cancel": "Cancelar",
+  "no": "No",
+  "yes": "Si",
+  "ok": "Ok",
+  "fieldRequired": "Campo requerido",
+  "deleteAll": "Eliminar todo",
+  "delete": "Eliminar",
+  "operationConfirmation": "Está seguro de esta operación?",
+  "copiedToClipboard": "Copiado al portapapeles!",
+  "enterKeyManually": "Ingresar clave manualmente",
+  "permissionDenied": "Permiso denegado",
+  "enablePermission": "Habilitar permiso en Ajustes?"
+}

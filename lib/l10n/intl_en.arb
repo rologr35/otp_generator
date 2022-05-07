@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appName": "OTPGenerator",
+  "invalidBase32Chars": "Invalid base32 characters",
+  "labelTextWarning": "Label is empty, please check this value",
+  "secretCode": "Secret key",
+  "label": "Label",
+  "otpLabelWarning": "OTP label is an alphanumeric string without spaces :@.,;()\\$% are also allowed",
+  "qrScanner": "QR",
+  "accept": "Accept",
+  "cancel": "Cancel",
+  "no": "No",
+  "yes": "Yes",
+  "ok": "Ok",
+  "fieldRequired": "Field required",
+  "deleteAll": "Delete All",
+  "delete": "Delete",
+  "operationConfirmation": "Are you sure of this operation?",
+  "copiedToClipboard": "Copied to clipboard!",
+  "enterKeyManually": "Enter key manually",
+  "permissionDenied": "Permission denied",
+  "enablePermission": "Enable permission in settings?"
+}
