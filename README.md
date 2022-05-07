@@ -12,4 +12,6 @@ Download project and run main.dart file
 
 Enjoy it!!!
 
+![alt text](https://github.com/rologr35/otp_generator/blob/master/sample.png?raw=true)
+
 
