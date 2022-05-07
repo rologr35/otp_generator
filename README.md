@@ -1,16 +1,15 @@
 # otp_generator
 
-A new Flutter project.
+This is a full mobile and multiplatform application that allow you to generate TOTP codes using secret keys or scanning the QR code offered by the service the user wants to secure. This TOTP codes allow the user to enable Two-Factor Authentication for specific applications.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+First you must have Flutter SDK installed in order to compile project.
+Please check this guide to complete this operation:
+- [Flutter: Get Started](https://docs.flutter.dev/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
+Download project and run main.dart file
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Enjoy it!!!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
